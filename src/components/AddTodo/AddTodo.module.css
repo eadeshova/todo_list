@@ -1,0 +1,30 @@
+.container_addtask {
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+}
+
+.form_add {
+    width: 60%;
+    background-color: #F5F5F5;
+}
+
+.inp_add {
+    height: 40px;
+    width: 258px;
+    background-color: #F5F5F5;
+    border: 2px solid #242424;
+    margin: 0px 0px 30px 0px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.btn_add {
+    background-color: #F5F5F5;
+    border: 2px solid #242424;
+    width: 70px;
+    height: 40px;
+    margin: 10px;
+    font-size: 20px;
+    color: #242424;
+}
